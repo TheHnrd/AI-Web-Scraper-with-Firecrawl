@@ -10,7 +10,7 @@ load_dotenv()
 # streamlit configuration
 
 st.set_page_config(
-    page_title= "AI Content analysis dashboard",
+    page_title= "AI Scraper", #btw title changed here at 2:31pm 19/1/2026
     page_icon= "🤖",
     layout= "wide"
 )
